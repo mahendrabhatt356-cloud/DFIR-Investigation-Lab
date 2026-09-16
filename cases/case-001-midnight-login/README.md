@@ -28,3 +28,8 @@ Instead of only learning security concepts theoretically, this project follows t
 🛡️ RESPONSE
    ↓
 📄 FINAL REPORT
+
+⚠️ Disclaimer
+This repository is an educational cybersecurity laboratory.
+All organizations, users, accounts, timestamps, IP addresses, logs and other investigation data are fictional or synthetic unless explicitly stated otherwise.
+No unauthorized systems or real individuals are targeted.
