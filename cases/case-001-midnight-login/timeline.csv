@@ -1,7 +1,24 @@
-timestamp,event,description,source
-2026-09-14 09:02:11,Normal Login,Arjun Mehta logged in from the office,Authentication Log
-2026-09-14 17:48:22,Normal Login,Arjun Mehta logged in during normal working hours,Authentication Log
-2026-09-15 02:13:44,Unusual Login,Successful remote login detected for Arjun Mehta,Authentication Log
-2026-09-15 02:14:03,Failed Login,Failed login attempt from the same remote source,Authentication Log
-2026-09-15 02:14:19,Failed Login,Second failed login attempt from the same remote source,Authentication Log
-2026-09-15 08:57:31,Normal Login,Arjun Mehta logged in from the office,Authentication Log
+timestamp,event,description,source,severity
+2026-09-14 09:02:11,Normal Login,Arjun Mehta logged in from the office,Authentication Log,LOW
+2026-09-14 17:48:22,Normal Login,Arjun Mehta logged in during normal working hours,Authentication Log,LOW
+2026-09-15 02:13:44,Unusual Login,Successful remote login detected for Arjun Mehta from 203.0.113.45,Authentication Log,HIGH
+2026-09-15 02:14:03,Failed Login,Failed login attempt from the same remote source,Authentication Log,MEDIUM
+2026-09-15 02:14:19,Failed Login,Second failed login attempt from the same remote source,Authentication Log,MEDIUM
+2026-09-15 02:15:12,Remote Session,Remote session SES-88421 became active on NOVA-FIN-07,Endpoint Events,HIGH
+2026-09-15 02:16:08,Finance Access,Finance dashboard opened during the remote session,Finance Activity,HIGH
+2026-09-15 02:17:32,Payment Records Viewed,Payment records were viewed,Finance Activity,MEDIUM
+2026-09-15 02:19:04,Financial Modification,Transaction TXN-78422 changed from 185000 to 285000,Financial Audit,HIGH
+2026-09-15 02:19:37,Network Connection,Connection established with internal Finance-Database,Network Activity,MEDIUM
+2026-09-15 02:20:11,Financial Modification,Transaction TXN-78424 changed from 210000 to 310000,Financial Audit,HIGH
+2026-09-15 02:22:10,File Access,Quarterly finance report opened,File Access Log,MEDIUM
+2026-09-15 02:23:41,File Access,Vendor payment list opened,File Access Log,MEDIUM
+2026-09-15 02:24:16,File Read,Vendor payment list read,File Access Log,MEDIUM
+2026-09-15 02:25:03,File Export,Vendor payment list exported,File Access Log,HIGH
+2026-09-15 02:25:42,Outbound Transfer,Vendor payment list transferred to 203.0.113.90,Data Transfer Log,HIGH
+2026-09-15 02:26:18,Outbound Transfer,Additional unknown data transferred to 203.0.113.90,Data Transfer Log,MEDIUM
+2026-09-15 02:26:27,File Access,Employee finance data opened,File Access Log,MEDIUM
+2026-09-15 02:27:02,File Read,Employee finance data read,File Access Log,MEDIUM
+2026-09-15 02:28:14,File Export,Employee finance data exported,File Access Log,HIGH
+2026-09-15 02:28:31,Outbound Transfer,Employee finance data transferred to 203.0.113.90,Data Transfer Log,HIGH
+2026-09-15 02:29:04,Session End,Remote session SES-88421 ended,Session Activity,HIGH
+2026-09-15 08:57:31,Normal Login,Arjun Mehta logged in from the office,Authentication Log,LOW
