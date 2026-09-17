@@ -1,1 +1,9 @@
-
+timestamp,user,system,source_ip,location,result,login_type
+2026-09-14 09:02:11,arjun.mehta,NOVA-FIN-07,10.10.20.15,Office,SUCCESS,Interactive
+2026-09-14 09:15:43,arjun.mehta,NOVA-FIN-07,10.10.20.15,Office,SUCCESS,Interactive
+2026-09-14 17:48:22,arjun.mehta,NOVA-FIN-07,10.10.20.15,Office,SUCCESS,Interactive
+2026-09-14 18:02:07,arjun.mehta,NOVA-FIN-07,10.10.20.15,Office,SUCCESS,Interactive
+2026-09-15 02:13:44,arjun.mehta,NOVA-FIN-07,203.0.113.45,Remote,SUCCESS,Remote
+2026-09-15 02:14:03,arjun.mehta,NOVA-FIN-07,203.0.113.45,Remote,FAILED,Remote
+2026-09-15 02:14:19,arjun.mehta,NOVA-FIN-07,203.0.113.45,Remote,FAILED,Remote
+2026-09-15 08:57:31,arjun.mehta,NOVA-FIN-07,10.10.20.15,Office,SUCCESS,Interactive
