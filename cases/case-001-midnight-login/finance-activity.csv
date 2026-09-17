@@ -1,1 +1,6 @@
-
+timestamp,user,system,activity,record_id,status
+2026-09-15 02:16:08,arjun.mehta,NOVA-FIN-07,Finance dashboard opened,FIN-1001,VIEW
+2026-09-15 02:17:32,arjun.mehta,NOVA-FIN-07,Payment records viewed,FIN-1002,VIEW
+2026-09-15 02:19:04,arjun.mehta,NOVA-FIN-07,Payment record modified,FIN-1003,MODIFIED
+2026-09-15 02:20:11,arjun.mehta,NOVA-FIN-07,Payment record modified,FIN-1004,MODIFIED
+2026-09-15 02:21:47,arjun.mehta,NOVA-FIN-07,Finance dashboard closed,FIN-1005,INFO
