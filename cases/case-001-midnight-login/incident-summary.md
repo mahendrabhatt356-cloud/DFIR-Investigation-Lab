@@ -94,3 +94,27 @@ The timeline and authentication logs will be examined next.
 ---
 
 **Case Status:** 🔍 Investigation in Progress
+---
+
+# 🔎 Investigation Update — Phase 2
+
+New evidence has been reviewed after the initial alert.
+
+## 🕒 What We Found So Far
+
+The suspicious remote login occurred at:
+
+**02:13:44 AM**
+
+Shortly after the login, the following activity was recorded:
+
+```text
+02:16  Finance dashboard opened
+02:17  Payment records viewed
+02:19  Payment record modified
+02:20  Payment record modified
+02:22  Finance report opened
+02:23  Vendor payment list opened
+02:25  Vendor payment list exported
+02:26  Employee finance data opened
+02:28  Employee finance data exported
