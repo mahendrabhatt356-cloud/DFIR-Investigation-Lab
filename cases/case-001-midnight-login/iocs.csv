@@ -1,1 +1,6 @@
-
+indicator_id,indicator_type,indicator,first_seen,related_event,status,notes
+IOC-001,IP Address,203.0.113.45,2026-09-15 02:13:44,Unusual remote login,Under Investigation,Remote source associated with the suspicious login
+IOC-002,User Account,arjun.mehta,2026-09-15 02:13:44,Unusual remote login,Under Investigation,Account used during the unusual login
+IOC-003,System,NOVA-FIN-07,2026-09-15 02:13:44,Unusual remote login,Under Investigation,System involved in the suspicious session
+IOC-004,File,Vendor_Payment_List.xlsx,2026-09-15 02:23:41,File access activity,Under Investigation,File was opened and later exported
+IOC-005,File,Employee_Finance_Data.xlsx,2026-09-15 02:26:27,File access activity,Under Investigation,File was opened and later exported
