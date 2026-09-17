@@ -1,0 +1,8 @@
+timestamp,event_id,user,system,process,event,details,status
+2026-09-15 02:15:12,EVT-501,arjun.mehta,NOVA-FIN-07,explorer.exe,Session Activity,Remote session became active,OBSERVED
+2026-09-15 02:16:08,EVT-502,arjun.mehta,NOVA-FIN-07,finance-app.exe,Application Start,Finance application opened,OBSERVED
+2026-09-15 02:19:04,EVT-503,arjun.mehta,NOVA-FIN-07,finance-app.exe,Record Update,Financial record TXN-78422 modified,OBSERVED
+2026-09-15 02:20:11,EVT-504,arjun.mehta,NOVA-FIN-07,finance-app.exe,Record Update,Financial record TXN-78424 modified,OBSERVED
+2026-09-15 02:25:03,EVT-505,arjun.mehta,NOVA-FIN-07,excel.exe,File Export,Vendor payment list exported,OBSERVED
+2026-09-15 02:28:14,EVT-506,arjun.mehta,NOVA-FIN-07,excel.exe,File Export,Employee finance data exported,OBSERVED
+2026-09-15 02:29:04,EVT-507,arjun.mehta,NOVA-FIN-07,explorer.exe,Session End,Remote session ended,OBSERVED
