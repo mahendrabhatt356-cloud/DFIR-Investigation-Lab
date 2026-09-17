@@ -1,0 +1,9 @@
+timestamp,session_id,user,system,source_ip,device,status,session_type
+2026-09-15 02:13:44,SES-88421,arjun.mehta,NOVA-FIN-07,203.0.113.45,Unknown-Remote-Device,STARTED,Remote
+2026-09-15 02:16:08,SES-88421,arjun.mehta,NOVA-FIN-07,203.0.113.45,Unknown-Remote-Device,ACTIVE,Remote
+2026-09-15 02:19:04,SES-88421,arjun.mehta,NOVA-FIN-07,203.0.113.45,Unknown-Remote-Device,ACTIVE,Remote
+2026-09-15 02:25:03,SES-88421,arjun.mehta,NOVA-FIN-07,203.0.113.45,Unknown-Remote-Device,ACTIVE,Remote
+2026-09-15 02:28:14,SES-88421,arjun.mehta,NOVA-FIN-07,203.0.113.45,Unknown-Remote-Device,ACTIVE,Remote
+2026-09-15 02:29:04,SES-88421,arjun.mehta,NOVA-FIN-07,203.0.113.45,Unknown-Remote-Device,ENDED,Remote
+2026-09-15 08:57:31,SES-88456,arjun.mehta,NOVA-FIN-07,10.10.20.15,Office-Workstation,STARTED,Interactive
+2026-09-15 09:12:18,SES-88456,arjun.mehta,NOVA-FIN-07,10.10.20.15,Office-Workstation,ENDED,Interactive
