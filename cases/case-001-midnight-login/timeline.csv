@@ -1,1 +1,7 @@
-
+timestamp,event,description,source
+2026-09-14 09:02:11,Normal Login,Arjun Mehta logged in from the office,Authentication Log
+2026-09-14 17:48:22,Normal Login,Arjun Mehta logged in during normal working hours,Authentication Log
+2026-09-15 02:13:44,Unusual Login,Successful remote login detected for Arjun Mehta,Authentication Log
+2026-09-15 02:14:03,Failed Login,Failed login attempt from the same remote source,Authentication Log
+2026-09-15 02:14:19,Failed Login,Second failed login attempt from the same remote source,Authentication Log
+2026-09-15 08:57:31,Normal Login,Arjun Mehta logged in from the office,Authentication Log
