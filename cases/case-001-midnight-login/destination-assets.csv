@@ -1,0 +1,4 @@
+destination_ip,asset_name,asset_type,organization_owned,known_purpose,status
+10.10.20.50,Finance-API,Internal Server,YES,Finance Application,KNOWN
+10.10.20.60,Finance-Database,Internal Server,YES,Finance Records,KNOWN
+203.0.113.90,Unknown-External-Endpoint,External Endpoint,NO,No approved business purpose identified,SUSPICIOUS
